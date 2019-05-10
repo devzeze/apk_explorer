@@ -1,0 +1,6 @@
+[submodule "submodules/jd-gui"]
+	path = submodules/jd-gui
+	url = https://github.com/devzeze/jd-gui.git
+[submodule "submodules/dex2jar"]
+	path = submodules/dex2jar
+	url = https://github.com/devzeze/dex2jar.git
