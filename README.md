@@ -14,7 +14,7 @@ Apk-Explorer is an utility shell script that performs the following actions to a
 ## How to build Apk-Explorer ?
 ```
 > git clone https://github.com/devzeze/apk_explorer.git
-> sh apk_explorer_build.sh
+> sh apk_explorer.sh -b
 ```
 
 ## Are there any dependencies ?
@@ -26,7 +26,7 @@ Connect smartphone to computer by usb.
 
 ```
 > sh apk_explorer_build.sh
-> sh apk_explorer_run.sh <package-name>
+> sh apk_explorer.sh -x <package_name>
 ```
 
 
